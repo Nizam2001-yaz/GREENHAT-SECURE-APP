@@ -1,5 +1,5 @@
 
-GreenHat Secure — README.md
+GreenHat Secure
 
 Welcome to GreenHat Secure — a playful, hacker‑vibe learning platform that helps students go from zero to pro in cybersecurity. Users pick a dream role (SOC Analyst, Pentester, CISO, etc.), and HatBot — an intelligent in‑app assistant — generates a personalised roadmap, daily tasks, quizzes, labs, resume help and AI-driven job market insights. This repository contains the source code, documentation and deployment guides for the GreenHat Secure app.
 
@@ -7,13 +7,12 @@ Table of contents
 
 Features
 
-Screenshots
 
 Tech stack
 
 Architecture
 
-Getting started (developer setup)
+ (developer setup)
 
 Environment Variables
 
@@ -129,6 +128,5 @@ This project is released under the MIT License. See LICENSE for details.
 
 Acknowledgements
 
-HatBot icon & art: /assets/logo (replace with designer assets).
 
 Inspired by learners, hackers, and the open source community.
